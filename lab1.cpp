@@ -4,7 +4,11 @@ using namespace std;
 
 int main()
 {
-    int values = 0, suma = 0, antal = 0, minVarde, maxVarde; 
+    int values = 0;
+    int suma = 0; 
+    int antal = 0;
+    int minVarde;
+    int maxVarde; 
     double medelvarde;
 
     while (cin >> values)
